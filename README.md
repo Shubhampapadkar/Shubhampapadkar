@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Shubham Papadkar</h1>
-<h3 align="center">A Enthusiastic Data Scientist || Data analyst || Business Analyst from India</h3>
+<h3 align="center">A Enthusiastic Data Analyst || Business Analyst || Data Scientist from India</h3>
 
 <img align="right" alt="coading" width="450" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 
